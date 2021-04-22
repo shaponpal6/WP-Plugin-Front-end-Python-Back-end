@@ -1,0 +1,32 @@
+[nflpro-teams team="NE"] = New England Patriots
+[nflpro-teams team="MIA"] = Miami Dolphins
+[nflpro-teams team="BUF"] = Buffalo Bills
+[nflpro-teams team="NYJ"] = New York Jets
+[nflpro-teams team="PIT"] = Pittsburgh Steelers
+[nflpro-teams team="BAL"] = Baltimore Ravens
+[nflpro-teams team="CIN"] = Cincinnati Bengals
+[nflpro-teams team="CLE"] = Cleveland Browns
+[nflpro-teams team="HOU"] = Houston Texans
+[nflpro-teams team="IND"] = Indianapolis Colts
+[nflpro-teams team="TEN"] = Tennessee Titans
+[nflpro-teams team="JAX"] = Jacksonville Jaguars
+[nflpro-teams team="KC"] = Kansas City Chiefs
+[nflpro-teams team="LAC"] = Los Angeles Chargers
+[nflpro-teams team="DEN"] = Denver Broncos
+[nflpro-teams team="OAK"] = Oakland Raiders
+[nflpro-teams team="DAL"] = Dallas Cowboys
+[nflpro-teams team="WSH"] = Washington Redskins
+[nflpro-teams team="PHI"] = Philadelphia Eagles
+[nflpro-teams team="NYG"] = New York Giants
+[nflpro-teams team="CHI"] = Chicago Bears
+[nflpro-teams team="MIN"] = Minnesota Vikings
+[nflpro-teams team="GB"] = Green Bay Packers
+[nflpro-teams team="DET"] = Detroit Lions
+[nflpro-teams team="NO"] = New Orleans Saints
+[nflpro-teams team="CAR"] = Carolina Panthers
+[nflpro-teams team="ATL"] = Atlanta Falcons
+[nflpro-teams team="TB"] = Tampa Bay Buccaneers
+[nflpro-teams team="LAR"] = Los Angeles Rams
+[nflpro-teams team="SEA"] = Seattle Seahawks
+[nflpro-teams team="ARI"] = Arizona Cardinals
+[nflpro-teams team="SF"] = San Francisco 49ers
